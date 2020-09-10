@@ -6,8 +6,9 @@ To categroise the countries so we can find the overall development of the countr
 # Data Source
 I used data from kaggle:https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data
 
-# Unsupervised model that I used:
-K-Means & Hierarchical Clustering
+# Approach:
+I had seen some statistical details of the data ,find outliers with the help of boxplot. Clustering techniques that I used are K-Means Clustering and Hierarchical Clustering.
+Visualized clusters.By doing some analysis I found which countries are developed , developing and under-developing.
 
 # Conclusion
 Both K-Means Clustering and Hierarchical Clustering had given different results.
