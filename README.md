@@ -11,4 +11,4 @@ I had seen some statistical details of the data ,find outliers with the help of 
 Visualized clusters.By doing some analysis I found which countries are developed , developing and under-developing.
 
 # Conclusion
-Both K-Means Clustering and Hierarchical Clustering had given different results.By both elbow method I got 3 number of clusters and by dendogram I had chosen 3 clusters. 
+Both K-Means Clustering and Hierarchical Clustering had given different results.By elbow method in K-Means Clustering I got 3 number of clusters and by dendogram in Hierarchical Clustering I had chosen 3 clusters. 
