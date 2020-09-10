@@ -1,7 +1,7 @@
 # Unsupervised_country
 # Problem Statement
 Clustering the countries using Unsupervised Learning.
-To categroize the countries so we can find the overall development of the countries, so that International NGOs can decide how much money they can spend on different countries for their development. 
+To categroize the countries so we can find the overall development of the countries, so that International NGOs can decide how much money they can spend on different countries for countries development. 
 
 # Data Source
 I used data from kaggle:https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data
